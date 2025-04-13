@@ -1,6 +1,6 @@
 package src;
 
-public class iPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet { 
+public class IPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet { 
 
     @Override
     public void ligar(String numero) {
